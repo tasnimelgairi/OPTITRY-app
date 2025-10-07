@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "Pfa@2024Secure"
+    ports:
+      - "1433:1433"
+    networks:
+      - pfa-network
+    volumes:
+      - sql-data:/var/opt/mssql
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    # Healthcheck supprimé car sqlcmd n'est pas dans l'image de base
+
+  pfa:
+    build:
+      context: ./PFA
+    container_name: pfa-app
+    depends_on:
+      - sqlserver
+    ports:
+      - "8081:5000"
+    networks:
+      - pfa-network
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=sqlserver;Database=PFAopticien;User Id=OuissalMrhar;Password=Pfa@2024Secure;TrustServerCertificate=True;
+    volumes:
+      - ./PFA:/app
+      - ~/.nuget/packages:/root/.nuget/packages
+    working_dir: /app
+    command: ["dotnet", "watch", "run", "--project", "PFA.csproj", "--urls", "http://0.0.0.0:5000"]
+
+networks:
+  pfa-network:
+
+volumes:
+  sql-data:

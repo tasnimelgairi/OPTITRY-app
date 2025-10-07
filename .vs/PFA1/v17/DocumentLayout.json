@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\PFA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F51EC48E-ABA2-4C05-8D78-CB5EEED0EFB7}|PFA\\PFA.csproj|c:\\users\\hp\\source\\repos\\pfa\\pfa\\migrations\\20250228221320_addtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51EC48E-ABA2-4C05-8D78-CB5EEED0EFB7}|PFA\\PFA.csproj|solutionrelative:pfa\\migrations\\20250228221320_addtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51EC48E-ABA2-4C05-8D78-CB5EEED0EFB7}|PFA\\PFA.csproj|c:\\users\\hp\\source\\repos\\pfa\\pfa\\data\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51EC48E-ABA2-4C05-8D78-CB5EEED0EFB7}|PFA\\PFA.csproj|solutionrelative:pfa\\data\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51EC48E-ABA2-4C05-8D78-CB5EEED0EFB7}|PFA\\PFA.csproj|c:\\users\\hp\\source\\repos\\pfa\\pfa\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51EC48E-ABA2-4C05-8D78-CB5EEED0EFB7}|PFA\\PFA.csproj|solutionrelative:pfa\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51EC48E-ABA2-4C05-8D78-CB5EEED0EFB7}|PFA\\PFA.csproj|c:\\users\\hp\\source\\repos\\pfa\\pfa\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51EC48E-ABA2-4C05-8D78-CB5EEED0EFB7}|PFA\\PFA.csproj|solutionrelative:pfa\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250228221320_addtable.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PFA\\PFA\\Migrations\\20250228221320_addtable.cs",
+              "RelativeDocumentMoniker": "PFA\\Migrations\\20250228221320_addtable.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PFA\\PFA\\Migrations\\20250228221320_addtable.cs",
+              "RelativeToolTip": "PFA\\Migrations\\20250228221320_addtable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:49:39.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PFA\\PFA\\Data\\MyContext.cs",
+              "RelativeDocumentMoniker": "PFA\\Data\\MyContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PFA\\PFA\\Data\\MyContext.cs",
+              "RelativeToolTip": "PFA\\Data\\MyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:49:37.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignupController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PFA\\PFA\\Controllers\\SignupController.cs",
+              "RelativeDocumentMoniker": "PFA\\Controllers\\SignupController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PFA\\PFA\\Controllers\\SignupController.cs",
+              "RelativeToolTip": "PFA\\Controllers\\SignupController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:48:50.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PFA\\PFA\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "PFA\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PFA\\PFA\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "PFA\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:48:45.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

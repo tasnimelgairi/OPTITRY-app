@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Desktop\\GI 4\u00E8me\\PFA\\PFA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A29CF88D-2298-4B98-8131-31C726784083}|PFA\\PFA.csproj|c:\\users\\pc\\onedrive\\desktop\\gi 4\u00E8me\\pfa\\pfa\\pfa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A29CF88D-2298-4B98-8131-31C726784083}|PFA\\PFA.csproj|solutionrelative:pfa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29CF88D-2298-4B98-8131-31C726784083}|PFA\\PFA.csproj|c:\\users\\pc\\onedrive\\desktop\\gi 4\u00E8me\\pfa\\pfa\\pfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29CF88D-2298-4B98-8131-31C726784083}|PFA\\PFA.csproj|solutionrelative:pfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29CF88D-2298-4B98-8131-31C726784083}|PFA\\PFA.csproj|c:\\users\\pc\\onedrive\\desktop\\gi 4\u00E8me\\pfa\\pfa\\pfa\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29CF88D-2298-4B98-8131-31C726784083}|PFA\\PFA.csproj|solutionrelative:pfa\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29CF88D-2298-4B98-8131-31C726784083}|PFA\\PFA.csproj|c:\\users\\pc\\onedrive\\desktop\\gi 4\u00E8me\\pfa\\pfa\\pfa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A29CF88D-2298-4B98-8131-31C726784083}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29CF88D-2298-4B98-8131-31C726784083}|PFA\\PFA.csproj|c:\\users\\pc\\onedrive\\desktop\\gi 4\u00E8me\\pfa\\pfa\\pfa\\data\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29CF88D-2298-4B98-8131-31C726784083}|PFA\\PFA.csproj|solutionrelative:pfa\\data\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29CF88D-2298-4B98-8131-31C726784083}|PFA\\PFA.csproj|c:\\users\\pc\\onedrive\\desktop\\gi 4\u00E8me\\pfa\\pfa\\pfa\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A29CF88D-2298-4B98-8131-31C726784083}|PFA\\PFA.csproj|solutionrelative:pfa\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29CF88D-2298-4B98-8131-31C726784083}|PFA\\PFA.csproj|c:\\users\\pc\\onedrive\\desktop\\gi 4\u00E8me\\pfa\\pfa\\pfa\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A29CF88D-2298-4B98-8131-31C726784083}|PFA\\PFA.csproj|solutionrelative:pfa\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\GI 4\u00E8me\\PFA\\PFA\\PFA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\GI 4\u00E8me\\PFA\\PFA\\PFA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAswP0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T23:24:03.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\GI 4\u00E8me\\PFA\\PFA\\PFA\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PFA\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\GI 4\u00E8me\\PFA\\PFA\\PFA\\appsettings.Development.json",
+              "RelativeToolTip": "PFA\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T17:34:39.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\GI 4\u00E8me\\PFA\\PFA\\PFA\\Data\\MyContext.cs",
+              "RelativeDocumentMoniker": "PFA\\Data\\MyContext.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\GI 4\u00E8me\\PFA\\PFA\\PFA\\Data\\MyContext.cs",
+              "RelativeToolTip": "PFA\\Data\\MyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:35:33.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\GI 4\u00E8me\\PFA\\PFA\\PFA\\Program.cs",
+              "RelativeDocumentMoniker": "PFA\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\GI 4\u00E8me\\PFA\\PFA\\PFA\\Program.cs",
+              "RelativeToolTip": "PFA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:15:20.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\GI 4\u00E8me\\PFA\\PFA\\PFA\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "PFA\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\GI 4\u00E8me\\PFA\\PFA\\PFA\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "PFA\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:08:20.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\GI 4\u00E8me\\PFA\\PFA\\PFA\\Dockerfile",
+              "RelativeDocumentMoniker": "PFA\\Dockerfile",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\GI 4\u00E8me\\PFA\\PFA\\PFA\\Dockerfile",
+              "RelativeToolTip": "PFA\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-11T13:30:05.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\GI 4\u00E8me\\PFA\\PFA\\PFA\\appsettings.json",
+              "RelativeDocumentMoniker": "PFA\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\GI 4\u00E8me\\PFA\\PFA\\PFA\\appsettings.json",
+              "RelativeToolTip": "PFA\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T10:48:00.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
